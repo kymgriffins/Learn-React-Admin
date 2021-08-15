@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Learn-React-Admin/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Learn-React-Admin/static/js/main.203ea63d.chunk.js",
+    "main.js.map": "/Learn-React-Admin/static/js/main.203ea63d.chunk.js.map",
+    "runtime-main.js": "/Learn-React-Admin/static/js/runtime-main.6e46752d.js",
+    "runtime-main.js.map": "/Learn-React-Admin/static/js/runtime-main.6e46752d.js.map",
+    "static/js/2.b28e4101.chunk.js": "/Learn-React-Admin/static/js/2.b28e4101.chunk.js",
+    "static/js/2.b28e4101.chunk.js.map": "/Learn-React-Admin/static/js/2.b28e4101.chunk.js.map",
+    "index.html": "/Learn-React-Admin/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Learn-React-Admin/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b28e4101.chunk.js.LICENSE.txt": "/Learn-React-Admin/static/js/2.b28e4101.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e46752d.js",
+    "static/js/2.b28e4101.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.203ea63d.chunk.js"
+  ]
+}
